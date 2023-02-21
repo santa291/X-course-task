@@ -1,0 +1,50 @@
+.specisic-book-wrapper {
+  max-width: 1240px;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 200%;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.book-title {
+  font-size: 20px;
+}
+.label {
+  font-weight: 700;
+  margin-right: 15px;
+}
+.book-description {
+  margin-top: 20px;
+  width: 100%;
+  line-height: 2;
+}
+
+.in-cart-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add-to-cart-wrapper .span-grouping {
+  line-height: 2.5;
+  display: flex;
+  justify-content: space-between;
+}
+.param-wrapper {
+  width: 40%;
+}
+.add-to-cart-wrapper {
+  min-width: 200px;
+  display: inline-block;
+  box-shadow: 0 2px 10px rgba(141, 141, 141, 0.25);
+  border: solid 1px #8d8d8d;
+  padding: 25px;
+  width: 300px;
+}
+.btn-wrapper {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

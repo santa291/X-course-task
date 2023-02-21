@@ -1,0 +1,22 @@
+.filters-container {
+  margin: 0 auto;
+  margin-bottom: 25px;
+  max-width: 1200px;
+}
+
+.filter-input {
+  margin-right: 20px;
+  width: 400px;
+}
+.filter-select {
+  width: 160px;
+}
+.book-list-wrapper {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin: 0 auto;
+  max-width: 1200px;
+}

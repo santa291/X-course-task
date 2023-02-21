@@ -1,0 +1,17 @@
+.book-price {
+  color: var(--price-color);
+  font-size: 22px;
+  font-weight: 700;
+}
+.price-btn-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 10px 10px 10px;
+}
+.book-list-item {
+  flex: 30%;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  max-width: 370px;
+}

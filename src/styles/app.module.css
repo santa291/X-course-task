@@ -1,0 +1,18 @@
+:root {
+  --price-color: #b82a2a;
+  --primary-color: #456896;
+  --light-text-color: #ffffff;
+}
+html,
+body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  margin-bottom: auto;
+}
